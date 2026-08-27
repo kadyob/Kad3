@@ -1,0 +1,6 @@
+{
+  "name": "UMK | KADYOB Digital Creator",
+  "description": "Modern, professional personal portfolio and digital agency landing page for UMK / KADYOB Digital Creator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
